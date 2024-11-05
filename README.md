@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm MajaPetkova</h1>
 <h3 align=" center">🌱 I’m currently learning JavaScript and React</h3>
-<h2 align="center"><a href="https://gilded-chaja-0a6fb3.netlify.app/" >Portfolio</a></h2>
+<h2 align="center"><a href="https://portfolio-petkova.netlify.app" >Portfolio</a></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
